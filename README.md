@@ -22,7 +22,7 @@ pod 'TestPod'
 
 ## Author
 
-HamzaMalik9805, hamzamalik9805@gmail.com
+HamzaMalik9805, hamzamalik9805@gmail.com 
 
 ## License
 
