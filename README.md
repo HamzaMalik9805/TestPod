@@ -22,7 +22,7 @@ pod 'TestPod'
 
 ## Author
 
-uzair-whizpool, uzair.masood@whizpool.com
+HamzaMalik9805, hamzamalik9805@gmail.com
 
 ## License
 
